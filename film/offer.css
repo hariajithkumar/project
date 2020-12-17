@@ -1,0 +1,211 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.tic{
+	padding-bottom:160px;
+}
+.tic1{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+	border: solid 5px black;
+	float: left;
+	padding: 25px;
+	
+}
+.box,input{
+	float: right;
+	position: absolute;
+	top: 20px;
+	right:  305px;
+	padding:10px 10px 10px 0px;
+}
+.box,select{
+	float: right;
+	position: absolute;
+	top: 20px;
+	left: 350px;
+	padding:10px 60px 10px 0px;
+}
+a{
+ margin: 0px 0px 0px 50px;
+}
+.box img{
+	width: 30px;
+	height: 40px;
+	position: absolute;
+	top: 25px;
+	left:480px;
+}
+.now{
+	width: 100%;
+	height: 300px;
+	background-color: black;
+	border: solid 3px blue;
+	margin-top: 10px; 
+}
+.now img{
+	width: 210px;
+	height: 200px;
+	position: relative;
+	border: solid 1px gray;
+	float: left;
+	border-radius: 10px;
+	margin-top: 20px;
+}
+.now h4{
+	padding-top: 10px;
+	position: absolute;
+	top: 335px;
+	left: -30px;
+	margin: 40px;
+}
+.now h3{
+	padding-top: 10px;
+	position: absolute;
+	top: 315px;
+	left: -30px;
+	margin: 40px;
+}
+.now1 img{
+	width: 210px;
+	height: 200px;
+	border: solid 1px gray;
+	float: left;
+	margin:20px 0px 0px 20px;
+	position: relative;
+    border-radius: 10px;
+}
+.now1 h3{
+	position: absolute;
+	top: 320px;
+	left: 210px;
+}
+.now1 h4{
+	position: absolute;
+	top: 340px;
+	left: 210px;
+}
+.now2 img{
+	width: 210px;
+	height: 200px;
+	border: solid 1px black;
+	margin: 20px 0px 0px 20px;
+	border-radius: 10px;
+	position: relative;
+}
+.now2 h3{
+	position: absolute;
+	top: 320px;
+	left: 435px;
+}
+.now2 h4{
+	position: absolute;
+	top: 340px;
+	left: 435px;
+
+}
+.come{
+	width: 100%;
+	height: 300px;
+	background-color: black;
+	border: solid 1px black;
+	margin-top: 10px;
+}
+.come img{
+	width: 210px;
+	height: 200px;
+	border: solid 1px black;
+	border-radius: 10px;
+	position: relative;
+	float: left;
+	margin-top: 20px;
+}
+.come h3{
+	position: absolute;
+	top: 670px;
+	left: 10px;
+}
+.come h4{
+	position: absolute;
+	top: 690px;
+	left: 10px;
+}
+.come1 img{
+     width: 210px;
+     height: 200px;
+     border: solid 1px black;
+     border-radius: 10px;
+     margin-left: 20px;
+     float: left;
+     position: relative;
+     margin-top: 20px;
+}
+.come1 h3{
+	position: absolute;
+	top: 670px;
+	left: 250px;
+}
+.come1 h4{
+	position: absolute;
+	top: 690px;
+	left: 250px;
+}
+.come2 img{
+	width: 210px;
+	height: 200px;
+	border: solid 1px black;
+	border-radius: 10px;
+	margin-left: 20px;
+}
+.come2 h3{
+	position: absolute;
+	top: 670px;
+	left: 480px;
+}
+.come2 h4{
+	position: absolute;
+	top: 690px;
+	left: 480px;
+}
+.add{
+	width: 100%;
+	height: 300px;
+	background-color: black;
+	border: solid 1px red;
+	margin-top: 10px;
+	position: relative;
+}
+.add1 ul{
+	padding: 50px;
+	float: left;
+}
+.add1 li{
+	padding: 3px;
+
+}
+.add2 ul{
+	padding: 50px;
+	float: left;
+}
+.add2 li{
+	padding: 3px;
+}
+.add3 ul{
+	padding: 50px;
+	float: left;
+}
+.add3 li{
+	padding: 3px;
+}
+.add4 ul{
+    padding: 50px;
+}
+.add4 li{
+	padding: 3px;
+}
+.add4 img{
+	padding: 0px 0px 0px 20px;
+	margin-top: -10px;
+}
